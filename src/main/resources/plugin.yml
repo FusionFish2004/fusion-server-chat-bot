@@ -1,0 +1,7 @@
+name: ChatBot
+author: FusionFish
+api-version: 1.17
+version: 1.0
+main: cn.fusionfish.chatbot.ChatBot
+depend:
+  - FusionCore
